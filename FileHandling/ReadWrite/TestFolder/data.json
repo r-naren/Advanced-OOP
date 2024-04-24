@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Ravi",
+    "FatherName": "Bala",
+    "Gender": 0,
+    "DOB": "1999-01-01T00:00:00",
+    "TotalMark": 455
+  },
+  {
+    "Name": "Luffy",
+    "FatherName": "Dragon",
+    "Gender": 0,
+    "DOB": "1969-01-01T00:00:00",
+    "TotalMark": 475
+  },
+  {
+    "Name": "Nico",
+    "FatherName": "Robin",
+    "Gender": 1,
+    "DOB": "1999-05-01T00:00:00",
+    "TotalMark": 459
+  }
+]
